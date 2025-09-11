@@ -2,7 +2,7 @@
 
 Inicialmente, estruture o documento README para conter as seguintes informações:  
 
-a.	Nome da empresa (Grupo), logo...<br>
+![Logo do ScrumMasters](LogScrumMasters.png)<br>
 
 AS63C - Desenvolvimento Ágil - N13 (2025_02)<br>
 
