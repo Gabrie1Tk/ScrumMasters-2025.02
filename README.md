@@ -43,7 +43,7 @@ AS63C - Desenvolvimento Ágil - N13 (2025_02)<br>
             <span id="ustory-01"></span>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Matheus Pelicaro Lopes</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">2476436</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1"> - </td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">https://github.com/matheuspelicarolopes</td>
         </tr>
 </table>
 
