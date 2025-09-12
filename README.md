@@ -23,7 +23,7 @@ AS63C - Desenvolvimento Ágil - N13 (2025_02)<br>
             <span id="ustory-01"></span>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Lucas Emanuel Adao Rocha</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">2531836</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1"> - </td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">https://github.com/LucasRocha-CMD</td>
         </tr>
         <tr>
             <span id="ustory-01"></span>
