@@ -2,7 +2,7 @@
 
 Inicialmente, estruture o documento README para conter as seguintes informações:  
 
-<img src="LogScrumMasters.png" alt="Logo do ScrumMasters" width="200"><br>
+<img src="LogScrumMasters.png" alt="Logo do ScrumMasters" width="300"><br>
 
 AS63C - Desenvolvimento Ágil - N13 (2025_02)<br>
 
