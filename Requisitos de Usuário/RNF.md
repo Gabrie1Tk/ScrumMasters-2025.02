@@ -1,22 +1,17 @@
-# 1. Requisitos Funcionais
+# 1. Requisitos Não Funcionais
 
-<p align="justify">A <i>Tabela 1</i> a seguir contém os Requisitos Funcionais (RF) elicitados utizando a técnica de Brainstorm.</p>
+<p align="justify">A <i>Tabela 2</i> a seguir contém os <b>Requisitos Não Funcionais (RNF)</b> elicitados utizando a técnica de Brainstorm .</p>
 
-| ID   |                                 Requisito                                 | Prioridade | Requisitos Relacionados |
-| :--: | :-----------------------------------------------------------------------: | :--------: | :---------: |
-| RF01 |              O usuário deve poder personalizar seu ambiente.              |  Média     |    RF12     |
-| RF02 |           O usuário deve poder acessar o seu progresso no jogo.           |  Alta      |      RF25   |
-| RF03 |              O usuário deve poder acessar seu nível no jogo.              |  Baixa     |     -       |
-| RF04 |                 O usuário deve poder ver suas conquistas.                 |            |             |
-| RF05 |        O usuário deve poder escolher a dificuldade de suas lições.        |            |             |
-| RF06 |       O usuário deve poder determinar metas diárias a ser comprida.       |            |             |
-
+| ID   |                                 Requisito NF                              | Categoria/Tipo | Prioridade | Requisitos Relacionados |
+| :--: | :-----------------------------------------------------------------------: |:-------------: | :--------: | :-----------------: |
+| RF01 |  O usuário deve ser capaz de finalizar a compra com menos de 3 cliques na página. | Produto/Usabilidade               |Média       |    RNF12             |
+| RF02 |  O executável do sistema não deve ser superior a 512 Kbytes.     |  Produto/eficiência     |Alta        |    RF8              |
+| RF03 |  O sistema deve ser implementado na linguagem Python.              |  Organizacionais/Implementação       |Baixa       |     -               |
 
 <div style="text-align: center">
-<p>Tabela 1: Requisitos Funcionais</p>
+<p>Tabela 2: Requisitos Não Funcionais</p>
 </div>
 
 # 2. Referências
-
 
 <a href="../README.md">VOLTAR INÍCIO</a>
