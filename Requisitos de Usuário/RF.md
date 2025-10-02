@@ -1,22 +1,15 @@
 # 1. Requisitos Funcionais
 
-<p align="justify">A <i>Tabela 1</i> a seguir contém os Requisitos Funcionais (RF) elicitados utizando a técnica de Brainstorm.</p>
+A *Tabela 1* a seguir contém os Requisitos Funcionais (RF) atualizados com base nas Histórias de Usuário.
 
-| ID   |                                 Requisito                                 | Prioridade | Requisitos Relacionados |
-| :--: | :-----------------------------------------------------------------------: | :--------: | :---------: |
-| RF01 |              O usuário deve poder personalizar seu ambiente.              |  Média     |    RF12     |
-| RF02 |           O usuário deve poder acessar o seu progresso no jogo.           |  Alta      |      RF25   |
-| RF03 |              O usuário deve poder acessar seu nível no jogo.              |  Baixa     |     -       |
-| RF04 |                 O usuário deve poder ver suas conquistas.                 |            |             |
-| RF05 |        O usuário deve poder escolher a dificuldade de suas lições.        |            |             |
-| RF06 |       O usuário deve poder determinar metas diárias a ser comprida.       |            |             |
-
+| ID   | Requisito                                                                                                   | Prioridade | Histórias de Usuário Relacionadas |
+| :---: | :---------------------------------------------------------------------------------------------------------- | :--------: | :-----------------------------: |
+| RF01 | O sistema deve permitir que o jogador responda a um quiz de múltipla escolha, validando as respostas e atribuindo pontuação. |    Alta    |               US01                |
+| RF02 | O sistema deve possuir um mecanismo de autenticação para jogadores e administradores.                         |    Alta    |            US02, US03             |
+| RF03 | O sistema deve exibir um ranking com as 10 melhores pontuações, destacando a posição do jogador atual.       |    Média   |               US02                |
+| RF04 | O sistema deve permitir que um administrador gerencie (crie, visualize, edite e exclua) as perguntas do quiz. |    Alta    |            US03, US04             |
+| RF05 | O sistema deve permitir a busca ou filtragem de perguntas na área administrativa.                             |    Média   |               US04                |
 
 <div style="text-align: center">
 <p>Tabela 1: Requisitos Funcionais</p>
 </div>
-
-# 2. Referências
-
-
-<a href="../README.md">VOLTAR INÍCIO</a>
