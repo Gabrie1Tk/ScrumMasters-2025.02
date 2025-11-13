@@ -64,7 +64,6 @@
       <td style="border-style:solid; border-width:1px; text-align:left; vertical-align:middle">
         <ol>
           <li>A interface de gerenciamento deve listar todas as perguntas em um formato de lista ou tabela.</li>
-          <li>O administrador deve poder filtrar ou buscar perguntas por palavras-chave do enunciado.</li>
           <li>Deve haver um botão "Editar" que abre um formulário pré-preenchido com os dados atuais.</li>
           <li>Deve haver um botão "Excluir" que solicita uma confirmação antes de remover a pergunta.</li>
           <li>Qualquer alteração deve ser salva e refletida imediatamente nos quizzes futuros.</li>
@@ -80,4 +79,5 @@
 <div style="text-align: center">
   <p>Tabela 3: Histórias de Usuário para o Aplicativo de Quiz Educacional</p>
 </div>
+
 
