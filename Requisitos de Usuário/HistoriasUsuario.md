@@ -33,10 +33,10 @@
       <td style="border-style:solid; border-width:1px; text-align:left; vertical-align:middle">
         <ol>
           <li>O ranking deve ser acessível a partir de uma opção clara no menu principal.</li>
-          <li>A tela de ranking deve listar os top 10 jogadores, ordenados pela pontuação mais alta.</li>
+          <li>A tela de ranking deve listar os top 6 jogadores, ordenados pela pontuação mais alta.</li>
           <li>Cada entrada no ranking deve exibir o nome do jogador e sua pontuação.</li>
-          <li>Se o usuário logado estiver entre os 10 primeiros, sua posição deve estar destacada visualmente.</li>
-          <li>Se o usuário logado não estiver no top 10, deve haver uma seção mostrando "Sua Posição: [posição] - [pontuação]".</li>
+          <li>Se o usuário logado estiver entre os 6 primeiros, sua posição deve estar destacada visualmente.</li>
+          <li>Se o usuário logado não estiver no top 6, deve haver uma seção mostrando "Sua Posição: [posição] - [pontuação]".</li>
         </ol>
       </td>
       <td style="border-style:solid; border-width:1px; text-align:center; vertical-align:middle">Média</td>
@@ -80,3 +80,4 @@
 <div style="text-align: center">
   <p>Tabela 3: Histórias de Usuário para o Aplicativo de Quiz Educacional</p>
 </div>
+
